@@ -18,7 +18,7 @@ import com.jokes.remote.provider.IJokeRestClient;
  *
  */
 @ApplicationScoped
-public class CustomRestClientBuilder implements ICustomRestClientBuilder  { 
+public class JokeRestClientBuilder implements IJokeRestClientBuilder  { 
 
 	@Inject
 	JokeBean jokeBean;
