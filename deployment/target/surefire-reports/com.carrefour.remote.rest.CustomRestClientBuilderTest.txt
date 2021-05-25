@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.carrefour.remote.rest.CustomRestClientBuilderTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.179 s - in com.carrefour.remote.rest.CustomRestClientBuilderTest

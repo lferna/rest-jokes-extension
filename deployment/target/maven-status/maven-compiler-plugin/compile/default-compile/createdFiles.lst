@@ -1,3 +1,0 @@
-META-INF\quarkus-javadoc.properties
-META-INF\quarkus-build-steps.list
-com\jokes\rest\client\extension\deployment\RestClientExtensionProcessor$$accessor.class
